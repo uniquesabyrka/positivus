@@ -1,4 +1,4 @@
-# Positivus: A Showcase of Frontend Engineering Excellence
+# Positivus Marketing Website
 
 This isn't just another marketing landing page—it's a demonstration of clean, scalable frontend architecture built with modern HTML5, modular Sass, and zero JavaScript dependencies. Perfect for showcasing your skills to recruiters and senior engineers who value thoughtful code over flashy frameworks.
 
