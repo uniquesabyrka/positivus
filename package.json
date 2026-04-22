@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "sass styles/main.scss styles/main.css --source-map --watch",
+    "build": "sass styles/main.scss styles/main.css --style=compressed --no-source-map"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/uniquesabyrka/positivus/issues"
   },
-  "homepage": "https://github.com/uniquesabyrka/positivus#readme"
+  "homepage": "https://github.com/uniquesabyrka/positivus#readme",
+  "devDependencies": {
+    "sass": "^1.99.0"
+  }
 }
