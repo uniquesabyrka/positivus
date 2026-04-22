@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "sass styles/main.scss styles/main.css --source-map --watch",
-    "build": "sass styles/main.scss styles/main.css --style=compressed --no-source-map"
+    "build": "sass styles/main.scss styles/main.min.css --style=compressed --no-source-map"
   },
   "repository": {
     "type": "git",
